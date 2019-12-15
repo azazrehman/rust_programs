@@ -1,3 +1,0 @@
-[submodule "hello_cargo"]
-	path = hello_cargo
-	url = ../heelow_rust.git
